@@ -337,8 +337,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Developed and maintained by [TechDock](https://techdock.ch).
 
+This library is built on the OpenAPI specification provided by the [OPC Foundation](https://opcfoundation.org/). The OPC UA WebAPI specification (introduced in version 1.05.04) enables standardized RESTful API access to OPC UA servers, making OPC UA more accessible to modern web and cloud applications.
+
 ## Related Resources
 
 - [OPC Foundation](https://opcfoundation.org/)
 - [OPC UA Specification](https://reference.opcfoundation.org/)
-- [OPC UA WebAPI Specification](https://reference.opcfoundation.org/WebApi/)
+- [OPC UA WebAPI Swagger Documentation](https://webapi.opcfoundation.org/swagger) - Live interactive API documentation
+- [OPC UA WebAPI StarterKit](https://github.com/OPCFoundation/UA-WebApi-StarterKit) - Official sample applications and OpenAPI definitions
+- [OPC UA and OpenAPI: Understanding the Integration](https://opcconnect.opcfoundation.org/2024/12/opc-ua-and-openapi/) - Comprehensive blog post explaining how OpenAPI simplifies OPC UA development
+- [OPC UA Part 6: NodeId String Format](https://reference.opcfoundation.org/Core/Part6/v105/docs/5.1.12) - Specification for the string representations used in this library
