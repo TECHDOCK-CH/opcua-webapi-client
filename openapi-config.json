@@ -1,0 +1,13 @@
+{
+  "packageName": "OpcUaWebApiClient",
+  "composerPackageName": "techdock/opcua-webapi-client",
+  "invokerPackage": "TechDock\\OpcUaWebApiClient",
+  "srcBasePath": "src/",
+  "artifactVersion": "1.0.0",
+  "artifactUrl": "https://github.com/TECHDOCK-CH/opcua-webapi-client",
+  "licenseName": "MIT",
+  "developerOrganization": "TechDock",
+  "developerOrganizationUrl": "https://github.com/TECHDOCK-CH",
+  "ensureUniqueParams": true,
+  "prependFormOrBodyParameters": false
+}
